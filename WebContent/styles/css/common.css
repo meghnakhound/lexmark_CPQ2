@@ -1,0 +1,87 @@
+.sapMSplitContainer {
+  height: 93%; }
+  .sapMSplitContainer .sapMSplitContainerMaster {
+    display: none; }
+  .sapMSplitContainer .homeContainer {
+    width: 98%;
+    height: 100%;
+    margin-left: 1%; }
+    .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child {
+      width: 30%;
+      height: 100%;
+      background: #ccc;
+      float: left; }
+      .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer {
+        width: 100%; }
+        .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer .productTabs {
+          height: 45px; }
+          .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer .productTabs .sapUiTabPanel {
+            display: none; }
+          .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer .productTabs button {
+            background: #eee !important;
+            width: 0%;
+            margin: 0;
+            padding: 16px 20% 14px 12%; }
+            .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer .productTabs button:hover {
+              background: yellow;
+              border: none; }
+        .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer .productSearch {
+          width: 83%;
+          margin: auto;
+          margin-top: 12px; }
+          .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer .productSearch .sapMSFF {
+            border-radius: 4px;
+            border-color: #ccc; }
+            .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer .productSearch .sapMSFF > input {
+              width: 46px; }
+        .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer .productList ul {
+          width: 94%;
+          margin: 15px auto;
+          max-height: 751px;
+          overflow-y: auto; }
+          .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:first-child .leftContainer .productList ul li {
+            padding: 8px; }
+    .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:nth-child(2) {
+      width: 70%;
+      height: 100%;
+      float: right;
+      background: #ccc; }
+      .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:nth-child(2) .rightContainer {
+        width: 100%; }
+        .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:nth-child(2) .rightContainer .productForm .sapUiRLContainer {
+          width: 96%;
+          margin: auto;
+          padding: 0 16px 16px 16px; }
+          .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:nth-child(2) .rightContainer .productForm .sapUiRLContainer .sapUiRFLRow {
+            padding-top: 8px; }
+            .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:nth-child(2) .rightContainer .productForm .sapUiRLContainer .sapUiRFLRow div[id^="recentOrders"] .sapUiRFLContainerContent {
+              width: 80%;
+              margin: auto; }
+              .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:nth-child(2) .rightContainer .productForm .sapUiRLContainer .sapUiRFLRow div[id^="recentOrders"] .sapUiRFLContainerContent .btnRecentOrders {
+                background-color: #074872;
+                /* Dark blue */
+                border: none;
+                color: #fff;
+                padding: 10px 17%;
+                font-family: "TPHero" !important;
+                cursor: pointer;
+                margin-top: 22px; }
+            .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:nth-child(2) .rightContainer .productForm .sapUiRLContainer .sapUiRFLRow input {
+              height: 35px;
+              border-radius: 4px; }
+        .sapMSplitContainer .homeContainer > .sapUiHLayoutChildWrapper:nth-child(2) .rightContainer .productForm .sapUiFormTitle {
+          border: none; }
+
+.header {
+  width: 100%; }
+  .header > .sapUiHLayoutChildWrapper:nth-child(2) {
+    float: right;
+    height: 55px; }
+    .header > .sapUiHLayoutChildWrapper:nth-child(2) .rightHeader {
+      margin-top: 19px; }
+  .header .logout {
+    margin-right: 10px; }
+  .header .welcomeMsg {
+    margin-right: 20px; }
+
+/*# sourceMappingURL=common.css.map */

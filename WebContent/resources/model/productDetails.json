@@ -1,0 +1,32 @@
+{
+	"products" : [  
+	    { 	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},  
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Much Much Much", "PROD_IS_CONFIGURABLE" : "Y"},  
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Much More longer product name", "PROD_IS_CONFIGURABLE" : "N"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    { 	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},  
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Much Much Much", "PROD_IS_CONFIGURABLE" : "Y"},  
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Much More longer product name", "PROD_IS_CONFIGURABLE" : "N"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"},
+	    {	"PRODUCT_ID": "123456789", "PRODUCT_DESC" : "Product name/title", "PROD_IS_CONFIGURABLE" : "Y"}
+	    
+	    
+	]
+}
