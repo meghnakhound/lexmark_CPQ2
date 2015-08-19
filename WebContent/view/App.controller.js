@@ -1,0 +1,1 @@
+sap.ui.controller("lexmark.cpq.poc.view.App", {});
