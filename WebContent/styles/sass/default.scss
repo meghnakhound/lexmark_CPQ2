@@ -16,7 +16,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   line-height: 1;
-  overflow: scroll;
 }
 
 ol, ul {
@@ -46,9 +45,12 @@ a {
 }
 
 .textField {
-  width: 120px ;
+  width: 120px;
 }
+
 .table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+/*# sourceMappingURL=default.css.map */
